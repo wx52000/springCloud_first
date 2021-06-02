@@ -1,0 +1,9 @@
+# 应用名称
+server:
+  port: 9106
+spring:
+  application:
+    name: config-server
+  cloud:
+
+
